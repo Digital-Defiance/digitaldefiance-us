@@ -1,9 +1,23 @@
-# Digital Defiance, United States Chapter
+# Digital Defiance: United States Chapter
 
-The Digital Defiance, United States Chapter is a 501c3 incorporated in Washington State as Digital Defiance.
+Welcome to the United States Chapter of Digital Defiance, a non-profit organization registered under Section 501(c)(3) of the Internal Revenue Code, based in Washington State.
 
-At the present time, Digital Defiance is only comprised of one chapter, but in the future the possibility is open for an EU Chapter or other chapters. See [DigitalDefiance.org](https://digitaldefiance.org) for more information on Digital Defiance and its mission.
+## Our Chapter
 
-The United States Chapter subscribes to the same mission as the Digital Defiance organization as a whole, as must each other chapter, however there may be jurisdictional differences in how membership is accounted for and tracked. Members shall vote within their organization.
+As the inaugural and, at present, the sole chapter of Digital Defiance, we are the pioneers in a global movement of software engineers committed to public service. While we are proudly based in the United States, our vision is truly international. We foresee the establishment of additional chapters around the world in the future, including an EU Chapter, among others.
 
-At present all members vote under the United States Chapter even if they are not members of that country as there is only one chapter.
+For an in-depth understanding of Digital Defiance's objectives and activities, do visit our [official website](https://digitaldefiance.org).
+
+## Our Mission
+
+Our Chapter is committed to the shared mission that forms the backbone of Digital Defiance:
+
+> "The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of software engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software that aids in upholding the rule of law in the physical world."
+
+Each subsequent chapter, as it becomes a part of Digital Defiance, will uphold this mission, ensuring unity in our global efforts. However, membership management and tracking may vary from chapter to chapter due to jurisdictional differences.
+
+## Membership and Voting
+
+Currently, all Digital Defiance members, regardless of their geographical location, are accounted for under the United States Chapter and participate in voting within this chapter. As we establish new chapters, members will cast their votes within their respective organizations, reinforcing our commitment to democratic principles across our expanding community.
+
+We invite you to join us on this exciting journey of fostering an open, transparent culture of software development. Together, we can empower the open-source community and contribute to creating a more connected and equitable digital world.
