@@ -1,3 +1,5 @@
+<img width="662" alt="Original Logo USC@2x" src="https://github.com/Digital-Defiance/digitaldefiance-us/assets/3766240/de7ef3d8-cabc-45f7-9566-13f17b8c9e15">
+
 # Digital Defiance: United States Chapter
 
 Welcome to the United States Chapter of Digital Defiance, a non-profit organization registered under Section 501(c)(3) of the Internal Revenue Code, based in Washington State.
@@ -23,3 +25,7 @@ Each subsequent chapter, as it becomes a part of Digital Defiance, will uphold t
 Currently, all Digital Defiance members, regardless of their geographical location, are accounted for under the United States Chapter and participate in voting within this chapter. As we establish new chapters, members will cast their votes within their respective organizations, reinforcing our commitment to democratic principles across our expanding community.
 
 We invite you to join us on this exciting journey of fostering an open, transparent culture of open source development. Together, we can empower the open-source community and contribute to creating a more connected and equitable digital world.
+
+## Information
+
+This page is hosted on GitHub in our [Digital Defiance US Chapter](https://github.com/Digital-Defiance/digitaldefiance-us) repository. The repository also has itemized information on Membership, Donations, Expenses, and other information in sub-folders/sub-directories which are not accessible ia this page, but are publicly available on GitHub.
